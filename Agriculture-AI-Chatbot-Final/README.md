@@ -13,8 +13,6 @@ AgroBot-Universal is a smart web-based assistant for farmers and agriculture pro
 
 ---
 
-<img width="1889" height="975" alt="Agro-Output" src="https://github.com/user-attachments/assets/2f54c27c-2012-426b-9235-9098dd3faf9f" />
-
 
 ## 🚀 Features
 
@@ -90,8 +88,8 @@ Default admin:
 
 ## 👩‍💻 Made By
 
-**Aarti Patel**  
-Contact: [aartipatel0427@gmail.com](mailto:aartipatel0427@gmail.com)
+****PATCHIPULUSU LEELA KRISHNA RAGHAVENDRA****  
+Contact: [patchipulusuraghavendra@gmail.com](mailto:patchipulusuraghavendra@gmail.com)
 
 **Mentor:**  
 [springboardmentor056@gmail.com](mailto:springboardmentor056@gmail.com)
